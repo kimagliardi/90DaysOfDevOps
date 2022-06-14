@@ -1,6 +1,15 @@
+---
+title: '#90DaysOfDevOps - Managing your Linux System, Filesystem & Storage - Day 16'
+published: false
+description: '90DaysOfDevOps - Managing your Linux System, Filesystem & Storage'
+tags: 'devops, 90daysofdevops, learning'
+cover_image: null
+canonical_url: null
+id: 1048702
+---
 ## Managing your Linux System, Filesystem & Storage
 
-So far we have had a brief overview of Linux and DevOps and then we got our lab environment set up using vagant [(Day 14)](Day14.md), we then touched on a small portion of commands that will be in your daily toolkit when in the terminal and getting things done [(Day 15)](Day15.md). 
+So far we have had a brief overview of Linux and DevOps and then we got our lab environment set up using vagant [(Day 14)](day14.md), we then touched on a small portion of commands that will be in your daily toolkit when in the terminal and getting things done [(Day 15)](day15.md). 
 
 Here we are going to look into three key areas of looking after your Linux systems with updates, installing software, understanding what system folders are used for and we will also take a look at storage. 
 
@@ -72,7 +81,7 @@ On Windows, you have C: drive and that is what we consider the root. On Linux we
 
 ![](Images/Day16_Linux11.png)
 
-- `/etc` Likely the most important folder on your Linux system, this is where the majority of your configuration files. 
+- `/etc` Likely the most important folder on your Linux system, this is where the majority of your configuration files are. 
 
 ![](Images/Day16_Linux12.png)
 
@@ -80,7 +89,7 @@ On Windows, you have C: drive and that is what we consider the root. On Linux we
 
 ![](Images/Day16_Linux13.png)
 
-- `/lib` - We mentioned that `/bin` is where our binaries and executables live, `/lib` is where you will find the shared libraries for those. 
+- `/lib` - We mentioned that `/bin` is where our binaries and executables live, and `/lib` is where you will find the shared libraries for those. 
 
 ![](Images/Day16_Linux14.png)
 

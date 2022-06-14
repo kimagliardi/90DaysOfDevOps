@@ -1,3 +1,12 @@
+---
+title: '#90DaysOfDevOps - What is Docker & Getting installed - Day 43'
+published: false
+description: 90DaysOfDevOps - What is Docker & Getting installed
+tags: "devops, 90daysofdevops, learning"
+cover_image: null
+canonical_url: null
+id: 1048739
+---
 ## What is Docker & Getting installed
 
 In the previous post I mentioned Docker at least once and that is because Docker is really innovative in the making containers popular even though they have been around for such a long time. 
@@ -6,9 +15,9 @@ We are going to be using and explaining docker here but we should also mention t
 
 Docker is a software framework for building, running, and managing containers. The term "docker" may refer to either the tools (the commands and a daemon) or to the Dockerfile file format.
 
-We are going to be using Docker Personal here which is free (fir education and learning). This includes all the essentials that we need to cover to get a good foundation of knowledge of containers and tooling. 
+We are going to be using Docker Personal here which is free (for education and learning). This includes all the essentials that we need to cover to get a good foundation of knowledge of containers and tooling. 
 
-It is probably worth breaking down some of the "docker" tools that we will be using and what they are used for. The term docker can be referring to the docker project overall, which is a platform for devs and admins to develop, ship and run applications. It might also be a reference to the docker daeemon process running on the host which manages images and containers also called Docker Engine. 
+It is probably worth breaking down some of the "docker" tools that we will be using and what they are used for. The term docker can be referring to the docker project overall, which is a platform for devs and admins to develop, ship and run applications. It might also be a reference to the docker daemon process running on the host which manages images and containers also called Docker Engine. 
 
 ### Docker Engine 
 

@@ -1,3 +1,12 @@
+---
+title: '#90DaysOfDevOps - Microsoft Azure Fundamentals - Day 29'
+published: false
+description: 90DaysOfDevOps - Microsoft Azure Fundamentals
+tags: 'devops, 90daysofdevops, learning'
+cover_image: null
+canonical_url: null
+id: 1048705
+---
 ## Microsoft Azure Fundamentals 
 
 Before we get going, the winner of the Twitter poll was Microsoft Azure, hence the title of the page. It was close and also quite interesting to see the results come in over the 24 hours. 
@@ -62,7 +71,7 @@ A subscription can be seen as a boundary between different subscriptions potenti
 
 ### Management Groups
 
-Management groups give us the ability to segregate control across our Azure AD or our tenant environment. Management groups allow us to control policies, RBAC, and budgets.
+Management groups give us the ability to segregate control across our Azure Active Directory (AD) or our tenant environment. Management groups allow us to control policies, Role Based Access Control (RBAC), and budgets.
 
 Subscriptions belong to these management groups so you could have many subscriptions in your Azure AD Tenant, these subscriptions then can also control policies, RBAC, and budgets. 
 

@@ -1,14 +1,23 @@
+---
+title: '#90DaysOfDevOps - The Big Picture: Learning a Programming Language - Day 7'
+published: false
+description: 90DaysOfDevOps - The Big Picture DevOps & Learning a Programming Language
+tags: 'devops, 90daysofdevops, learning'
+cover_image: null
+canonical_url: null
+id: 1048856
+---
 ## The Big Picture: DevOps & Learning a Programming Language
 
 I think it is fair to say to be successful in the long term as a DevOps engineer you've got to know at least one programming language at a foundational level. I want to take this first session of this section to explore why this is such a critical skill to have, and hopefully, by the end of this week or section, you are going to have a better understanding of the why, how and what to do to progress with your learning journey. 
 
-I think if I was to ask out on social do you need to have programming skills for DevOps related roles, the answer will be most likely a hard yes? Let me know if you think otherwise? Ok but then a bigger question and this is where you won't get such a clear answer is which programming language?  The most common answer I have seen here has been Python or increasingly more often, we're seeing Golang or Go should be the language that you learn. 
+I think if I was to ask out on social do you need to have programming skills for DevOps related roles, the answer will be most likely a hard yes? Let me know if you think otherwise? Ok but then a bigger question and this is where you won't get such a clear answer which programming language?  The most common answer I have seen here has been Python or increasingly more often, we're seeing Golang or Go should be the language that you learn. 
 
 To be successful in DevOps you have to have a good knowledge of programming skills is my takeaway from that at least. But we have to understand why we need it to choose the right path. 
 
 ## Understand why you need to learn a programming language. 
 
-The reason that Python and Go are recommended so often for DevOps engineers is that a lot of the DevOps tooling is written in either Python or Go, which makes sense if you are going be build DevOps tools. Now this is important as this will determine really what you should learn and that would likely be the most beneficial. If you are going to be building DevOps tools or you are joining a team that does then it would make sense to learn that same language, if you are going to be heavily involved in Kubernetes or Containers then it's more than likely that you would want to choose Go as your programming language. For me, the company I work for (Kasten by Veeam) is in the Cloud-Native ecosystem focused on data management for Kubernetes and everything is written in Go. 
+The reason that Python and Go are recommended so often for DevOps engineers is that a lot of the DevOps tooling is written in either Python or Go, which makes sense if you are going to be building DevOps tools. Now this is important as this will determine really what you should learn and that would likely be the most beneficial. If you are going to be building DevOps tools or you are joining a team that does then it would make sense to learn that same language, if you are going to be heavily involved in Kubernetes or Containers then it's more than likely that you would want to choose Go as your programming language. For me, the company I work for (Kasten by Veeam) is in the Cloud-Native ecosystem focused on data management for Kubernetes and everything is written in Go. 
 
 But then you might not have clear cut reasoning like that to choose you might be a student or transitioning careers with no real decision made for you. I think in this situation then you should choose the one that seems to resonate and fit with the applications you are looking to work with. 
 
@@ -29,11 +38,11 @@ As I have also mentioned some of the most known DevOps tools and platforms are w
 What are some of the characteristics of Go that make it great for DevOps?
 
 ## Build and Deployment of Go Programs 
-An advantage of using a language like Python that is interpreted in a DevOps role is that you don’t need to compile a python program before running it. Especially for smaller automation tasks, you don’t want to be slowed down by a build process that requires compilation even though, even though Go is a compiled programming language, **Go compiles directly into machine code**.  Go is known also for fast compilation times. 
+An advantage of using a language like Python that is interpreted in a DevOps role is that you don’t need to compile a python program before running it. Especially for smaller automation tasks, you don’t want to be slowed down by a build process that requires compilation even though, Go is a compiled programming language, **Go compiles directly into machine code**.  Go is known also for fast compilation times. 
 
 ## Go vs Python for DevOps 
 
-Go Programs are statically linked, this means that when you compile a go program everything is included in a single binary executable, no external dependencies will be required that would need to be installed on the remote machine, this makes the deployment of go programs easy, compared to python program that uses external libraries you have to make sure that all those libraries are installed on the remote machine that you wish to run on. 
+Go Programs are statically linked, this means that when you compile a go program everything is included in a single binary executable, and no external dependencies will be required that would need to be installed on the remote machine, this makes the deployment of go programs easy, compared to python program that uses external libraries you have to make sure that all those libraries are installed on the remote machine that you wish to run on. 
 
 Go is a platform-independent language, which means you can produce binary executables for *all the operating systems, Linux, Windows, macOS etc and very easy to do so. With Python, it is not as easy to create these binary executables for particular operating systems. 
 
@@ -43,7 +52,7 @@ Unlike Python which often requires the use of third party libraries to implement
 
 This is by no way throwing Python under the bus I am just giving my reasons for choosing Go but they are not the above Go vs Python it's generally because it makes sense as the company I work for develops software in Go so that is why. 
 
-I will say that once you have or at least I am told as I am not many pages into this chapter right now, is that once you learn your first programming language it becomes easier to take on other languages. You're probably never going to have a single job in any company anywhere where you don't have to deal with manage, architect, orchestrating, debug JavaScript and Node JS applications. 
+I will say that once you have or at least I am told as I am not many pages into this chapter right now, is that once you learn your first programming language it becomes easier to take on other languages. You're probably never going to have a single job in any company anywhere where you don't have to deal with managing, architect, orchestrating, debug JavaScript and Node JS applications. 
 
 ## Resources
 
@@ -55,6 +64,6 @@ I will say that once you have or at least I am told as I am not many pages into 
 - [FreeCodeCamp -  Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1025s) 
 - [Hitesh Choudhary - Complete playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N) 
 
-Now for the next 6 days of this topic my intention is to work through some of the resources listed above and document my notes for each day. You will notice that they are generally around 3 hours as a full course, I wanted to share my complete list so that if you have time you should move ahead and work through each one if time permits, I will be sticking to my learning hour each day. 
+Now for the next 6 days of this topic, I intend to work through some of the resources listed above and document my notes for each day. You will notice that they are generally around 3 hours as a full course, I wanted to share my complete list so that if you have time you should move ahead and work through each one if time permits, I will be sticking to my learning hour each day. 
 
 See you on [Day 8](day08.md). 

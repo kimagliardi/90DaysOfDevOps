@@ -1,3 +1,12 @@
+---
+title: '#90DaysOfDevOps - The Big Picture: Containers - Day 42'
+published: false
+description: 90DaysOfDevOps - The Big Picture Containers
+tags: "devops, 90daysofdevops, learning"
+cover_image: null
+canonical_url: null
+id: 1048826
+---
 ## The Big Picture: Containers
 
 We are now starting the next section and this section is going to be focused on containers in particular we are going to be looking into Docker getting into some of the key areas to understand more about Containers. 
@@ -123,5 +132,6 @@ A container image is a lightweight, standalone, executable package of software t
 - [TechWorld with Nana - Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Programming with Mosh - Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI)
 - [Docker Tutorial for Beginners - What is Docker? Introduction to Containers](https://www.youtube.com/watch?v=17Bl31rlnRM&list=WL&index=128&t=61s)
+- [Introduction to Container By Red Hat](https://www.redhat.com/en/topics/containers)
 
 See you on [Day 43](day43.md) 
